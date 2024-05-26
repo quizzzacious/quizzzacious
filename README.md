@@ -1,6 +1,6 @@
-Mainly work with Lua & JS
+Mainly work with Roblox Lua & JS
 
-A lot of SvelteKit recently, trying out MongoDB, using a bit of Firebase/Firestore
+A lot of SvelteKit recently, a lot of struggling to deploy it to Vercel :3
 
 -----
 
