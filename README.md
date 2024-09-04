@@ -1,6 +1,6 @@
 Mainly work with Roblox Lua & JS
 
-A lot of SvelteKit recently, a lot of struggling to deploy it to Vercel :3
+A lot of SvelteKit/Firebase recently, and my main projects aren't linked currently :3
 
 -----
 
